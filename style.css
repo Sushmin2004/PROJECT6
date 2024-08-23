@@ -1,0 +1,35 @@
+img{
+    width: 20rem;
+    height: 130px;
+    margin: auto;
+    margin-top: 180px;
+}
+
+body{
+    text-align: center;
+}
+
+input{
+    width: 400px;
+    padding: 4px;
+    color: rgb(198, 195, 195);
+    border: solid 1px;
+}
+
+div{
+    margin-top: 6px;
+}
+
+.btn1{
+    border: none;
+    padding: 6px;
+    border-radius: 3px;
+    color: rgb(63, 59, 59);
+}
+
+.btn2{
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+}
